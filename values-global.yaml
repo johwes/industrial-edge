@@ -10,21 +10,21 @@ global:
     installPlanApproval: Automatic
 
   imageregistry:
-    account: PLAINTEXT
+    account: johwes
     hostname: quay.io
     type: quay
 
   git:
     hostname: github.com
-    account: PLAINTEXT
-    username: PLAINTEXT
-    email: SOMEWHERE@EXAMPLE.COM
+    account: johwes
+    username: johwes
+    email: jwesterl@redhat.com
     dev_revision: main
 
   datacenter:
-    clustername: datacenter-XXXXX
-    domain: BASEDOMAIN
+    clustername: datacenter-cluster-9k87n
+    domain: cluster-9k87n.9k87n.sandbox174.opentlc.com
 
   edge:
-    clustername: edge-XXXXX
-    domain: BASEDOMAIN
+    clustername: edge-cluster-9k87n
+    domain: cluster-9k87n.9k87n.sandbox174.opentlc.com
