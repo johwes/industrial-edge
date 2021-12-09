@@ -22,9 +22,9 @@ global:
     dev_revision: main
 
   datacenter:
-    clustername: datacenter-cluster-9k87n
-    domain: cluster-9k87n.9k87n.sandbox174.opentlc.com
+    clustername: cluster-mcksx
+    domain: mcksx.sandbox1326.opentlc.com
 
   edge:
-    clustername: edge-cluster-9k87n
-    domain: cluster-9k87n.9k87n.sandbox174.opentlc.com
+    clustername: cluster-mcksx
+    domain: mcksx.sandbox1326.opentlc.com
