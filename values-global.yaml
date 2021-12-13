@@ -10,7 +10,7 @@ global:
     installPlanApproval: Automatic
 
   imageregistry:
-    account: johwes
+    account: jwesterl
     hostname: quay.io
     type: quay
 
@@ -22,9 +22,9 @@ global:
     dev_revision: main
 
   datacenter:
-    clustername: cluster-mcksx
-    domain: mcksx.sandbox1326.opentlc.com
+    clustername: cluster-frz2s
+    domain: frz2s.sandbox605.opentlc.com
 
   edge:
-    clustername: cluster-mcksx
-    domain: mcksx.sandbox1326.opentlc.com
+    clustername: cluster-frz2s
+    domain: frz2s.sandbox605.opentlc.com
