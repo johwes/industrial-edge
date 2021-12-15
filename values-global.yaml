@@ -22,9 +22,10 @@ global:
     dev_revision: main
 
   datacenter:
-    clustername: cluster-frz2s
-    domain: frz2s.sandbox605.opentlc.com
+    clustername: cluster-npxwc
+    domain: npxwc.sandbox563.opentlc.com
 
   edge:
-    clustername: cluster-frz2s
-    domain: frz2s.sandbox605.opentlc.com
+    clustername: cluster-npxwc
+    domain: npxwc.sandbox563.opentlc.com
+
