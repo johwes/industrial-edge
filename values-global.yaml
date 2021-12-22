@@ -18,10 +18,10 @@ global:
     account: jwesterl
 
   datacenter:
-    clustername: cluster-zmmfw
-    domain: zmmfw.sandbox541.opentlc.com
+    clustername: cluster-5zxx4
+    domain: 5zxx4.sandbox900.opentlc.com
 
   edge:
-    clustername: cluster-zmmfw
-    domain: zmmfw.sandbox541.opentlc.com
+    clustername: cluster-5zxx4
+    domain: 5zxx4.sandbox900.opentlc.com
 
