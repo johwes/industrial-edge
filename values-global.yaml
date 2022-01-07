@@ -18,10 +18,10 @@ global:
     account: jwesterl
 
   datacenter:
-    clustername: cluster-5zxx4
-    domain: 5zxx4.sandbox900.opentlc.com
+    clustername: cluster-k8c2d
+    domain: k8c2d.sandbox139.opentlc.com
 
   edge:
-    clustername: cluster-5zxx4
-    domain: 5zxx4.sandbox900.opentlc.com
+    clustername: cluster-k8c2d
+    domain: k8c2d.sandbox139.opentlc.com
 
