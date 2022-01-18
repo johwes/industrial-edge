@@ -23,3 +23,10 @@ spec:
     importPolicy: {}
     referencePolicy:
       type: Local
+  - name: 0.3.2-20
+    from:
+      kind: DockerImage
+      name: quay.io/jwesterl/iot-anomaly-detection:0.3.2-20
+    importPolicy: {}
+    referencePolicy:
+      type: Local
